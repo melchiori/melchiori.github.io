@@ -76,13 +76,13 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: # Optional - Enter your site title
-description: # Optional - Enter your site description
+title: "iyntro app"# Optional - Enter your site title
+description: "The best way to connect everyone in your network"# Optional - Enter your site description
 
 #
 # Google Analytics
 #
-google_analytics: # Enter your tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-78967213-1  # Enter your tracking code (e.g. UA-2110908-2) to activate tracking
 
 #
 # iTunes Affiliate Program
